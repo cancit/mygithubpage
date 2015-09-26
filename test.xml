@@ -1,0 +1,168 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+<title> CU Yazilim - Applazm</title>
+<link>http://www.cuyazilim.com</link>
+<description>Applazm</description>
+<language>tr-tr</language>
+<barColor>#26A64F</barColor>
+<secBarColor>#DD26A64F</secBarColor>
+<barText>Fizikist</barText>
+<barTextColor>#FFFFFF</barTextColor>
+<hasToolbar>true</hasToolbar>
+<hasNavigationDrawer>true</hasNavigationDrawer>
+<colorAnimation>true</colorAnimation>
+<item>
+<header typeface="robotoMed" color="#FFFFFF">Fizikist</header>
+<desc typeface="robotoReg" color="#FFFFFF">fizikist.com</desc>
+<headerBackColor>#26A64F</headerBackColor>
+<logo>https://lh3.googleusercontent.com/-d_LWq45eba8/AAAAAAAAAAI/AAAAAAAAAPM/ALNZ4NMu9hE/s120-c/photo.jpg</logo>
+</item>
+<item>
+<text typeface="robotoMed">Anasayfa</text>
+<icon typeface="material"><![CDATA[&#xE88A;]]></icon>
+<link>http://cuyazilim.com/applazm/newfzk.php</link>
+</item>
+<item>
+<text typeface="robotoMed">Haberler</text>
+<icon typeface="awesome"><![CDATA[&#xf1ea;]]></icon>
+<link>http://cuyazilim.com/applazm/fzkstkat.php?link=http://www.fizikist.com/kategori/haberler/</link>
+</item>
+<item>
+<text typeface="robotoMed">Makaleler</text>
+<icon typeface="material"><![CDATA[&#xE254;]]></icon>
+<link>http://cuyazilim.com/applazm/fzkstkat.php?link=http://www.fizikist.com/kategori/makaleler/</link>
+</item>
+<item>
+<text typeface="robotoMed">Kitap Önerileri</text>
+<icon typeface="material"><![CDATA[&#xE865;]]></icon>
+<link>http://cuyazilim.com/applazm/fzkstkat.php?link=http://www.fizikist.com/kategori/kitap-onerileri/</link>
+</item>
+<item>
+<text typeface="robotoMed">Bilimsel Deneyler</text>
+<icon typeface="awesome"><![CDATA[&#xf0c3;]]></icon>
+<link>http://cuyazilim.com/applazm/fzkstkat.php?link=http://www.fizikist.com/kategori/bilimsel-deneyler/</link>
+</item>
+<item>
+<text typeface="robotoMed">Bilim İnsanları</text>
+<icon typeface="material"><![CDATA[&#xE63D;]]></icon>
+<link>http://cuyazilim.com/applazm/fzkstkat.php?link=http://www.fizikist.com/kategori/bilim-insanlari/</link>
+</item>
+<item>
+<text typeface="robotoMed">Teknoloji</text>
+<icon typeface="material"><![CDATA[&#xE326;]]></icon>
+<link>http://cuyazilim.com/applazm/fzkstkat.php?link=http://www.fizikist.com/kategori/teknoloji/</link>
+</item>
+<item>
+<text typeface="robotoMed">Etkinlikler</text>
+<icon typeface="material"><![CDATA[&#xE878;]]></icon>
+<link>http://cuyazilim.com/applazm/fzkstkat.php?link=http://www.fizikist.com/kategori/etkinlikler/</link>
+</item> 
+<item>
+<text typeface="robotoMed">Uzay</text>
+<icon typeface="awesome"><![CDATA[&#xf135;]]></icon>
+<link>http://cuyazilim.com/applazm/fzkstkat.php?link=http://www.fizikist.com/kategori/uzay/</link>
+</item>
+<item>
+<text typeface="robotoMed">Biyoloji</text>
+<icon typeface="awesome"><![CDATA[&#xf18c;]]></icon>
+<link>http://cuyazilim.com/applazm/fzkstkat.php?link=http://www.fizikist.com/kategori/biyoloji/</link>
+</item>
+<item>
+<text typeface="robotoMed">Çevre</text>
+<icon typeface="material"><![CDATA[&#xE564;]]></icon>
+<link>http://cuyazilim.com/applazm/fzkstkat.php?link=http://www.fizikist.com/kategori/cevre/</link>
+</item>
+<item>
+<text typeface="robotoMed">Eğitim</text>
+<icon typeface="material"><![CDATA[&#xE80C;]]></icon>
+<link>http://cuyazilim.com/applazm/fzkstkat.php?link=http://www.fizikist.com/kategori/egitim/</link>
+</item>
+<item>
+<text typeface="robotoMed">Beyin Fırtınası</text>
+<icon typeface="awesome"><![CDATA[&#xf0eb;]]></icon>
+<link>http://cuyazilim.com/applazm/fzdiscuss.php?limit=0</link>
+</item>
+<item>
+<text typeface="robotoMed">Fizikist TV</text>
+<icon typeface="awesome"><![CDATA[&#xf16a;]]></icon>
+<link type="0">http://cuyazilim.com/applazm/fzksttv.php</link>
+</item>
+<item>
+<text typeface="robotoMed">Yazarlar</text>
+<icon typeface="material"><![CDATA[&#xE7FB;]]></icon>
+<link>http://cuyazilim.com/applazm/fzkyazar.php</link>
+</item>
+<item>
+<line>#20000000</line>
+</item>
+<item>
+<text typeface="robotoMed">İletişim</text>
+</item>
+<item>
+<text typeface="robotoMed">Gizlilik Politikası</text>
+</item>
+<item>
+<text typeface="robotoMed">Kullanım Sözleşmesi</text>
+</item>
+<item>
+<text typeface="robotoMed">Hakkında</text>
+</item>
+
+<listItem>
+<viewType>100</viewType>
+<height>250</height>
+<listItem>
+<viewType>5</viewType>
+<link><![CDATA[http://cuyazilim.com/applazm/fzkpost.php?link=http://www.fizikist.com/nasa-bilim-insanlari-28-eylulde-gerceklesecek-olan-super-ay-tutulmasina-isik-tutuyor/]]></link><img alpha="0.7"><![CDATA[http://static.fizikist.com/img/2015/09/super-ay-tutulmasi-m.jpg]]></img><title color="#DDFFFFFF" typeface="robotoMed" size="18"><![CDATA[NASA Bilim İnsanları 28 Eylül’de Gerçekleşecek Olan Süper Ay Tutulmasına Işık Tutuyor]]></title>
+<secondaryText color="#DDFFFFFF" typeface="robotoLight"><![CDATA[]]></secondaryText>
+<thirdText color="#DDFFFFFF" typeface="robotoLight"><![CDATA[]]></thirdText>
+	</listItem><listItem>
+<viewType>5</viewType>
+<link><![CDATA[http://cuyazilim.com/applazm/fzkpost.php?link=http://www.fizikist.com/cern-axion-gunes-teleskobu-evrenin-karanlik-yuzunu-inceliyor/]]></link><img alpha="0.7"><![CDATA[http://static.fizikist.com/img/2015/09/cern-cast-m.jpg]]></img><title color="#DDFFFFFF" typeface="robotoMed" size="18"><![CDATA[CERN Axion Güneş Teleskobu Evrenin Karanlık Yüzünü İnceliyor]]></title>
+<secondaryText color="#DDFFFFFF" typeface="robotoLight"><![CDATA[]]></secondaryText>
+<thirdText color="#DDFFFFFF" typeface="robotoLight"><![CDATA[]]></thirdText>
+	</listItem><listItem>
+<viewType>5</viewType>
+<link><![CDATA[http://cuyazilim.com/applazm/fzkpost.php?link=http://www.fizikist.com/kaplumbaga-avcilarina-karsi-insansiz-hava-araclari/]]></link><img alpha="0.7"><![CDATA[http://static.fizikist.com/img/2015/09/kaplumbaga-m.jpg]]></img><title color="#DDFFFFFF" typeface="robotoMed" size="18"><![CDATA[Kaplumbağa avcılarına karşı insansız hava araçları]]></title>
+<secondaryText color="#DDFFFFFF" typeface="robotoLight"><![CDATA[]]></secondaryText>
+<thirdText color="#DDFFFFFF" typeface="robotoLight"><![CDATA[]]></thirdText>
+	</listItem><listItem>
+<viewType>5</viewType>
+<link><![CDATA[http://cuyazilim.com/applazm/fzkpost.php?link=http://www.fizikist.com/einsteinin-genel-gorelilik-kurami-100-yasinda/]]></link><img alpha="0.7"><![CDATA[http://static.fizikist.com/img/2015/01/11919032015163919-m.jpg]]></img><title color="#DDFFFFFF" typeface="robotoMed" size="18"><![CDATA[Einstein’ın Genel Görelilik Kuramı 100 Yaşında]]></title>
+<secondaryText color="#DDFFFFFF" typeface="robotoLight"><![CDATA[]]></secondaryText>
+<thirdText color="#DDFFFFFF" typeface="robotoLight"><![CDATA[]]></thirdText>
+	</listItem><listItem>
+<viewType>5</viewType>
+<link><![CDATA[http://cuyazilim.com/applazm/fzkpost.php?link=http://www.fizikist.com/atesbocekleri-nasil-isik-yayar/]]></link><img alpha="0.7"><![CDATA[http://static.fizikist.com/img/2015/09/ates-bocegi-m.jpg]]></img><title color="#DDFFFFFF" typeface="robotoMed" size="18"><![CDATA[Ateşböcekleri Nasıl Işık Yayar?]]></title>
+<secondaryText color="#DDFFFFFF" typeface="robotoLight"><![CDATA[]]></secondaryText>
+<thirdText color="#DDFFFFFF" typeface="robotoLight"><![CDATA[]]></thirdText>
+	</listItem></listItem><listItem>
+<viewType>3</viewType>
+<link><![CDATA[http://cuyazilim.com/applazm/fzkpost.php?link=http://www.fizikist.com/3d-yaziciyla-uretilen-model-organlar-doktorlarin-isini-kolaylastiracak/]]></link><img><![CDATA[http://static.fizikist.com/img/2015/09/3d-organ-s.jpg]]></img><title size="18" color="#DD000000"><![CDATA[3D yazıcıyla üretilen model organlar doktorların işini kolaylaştıracak]]></title><secondaryText color="#DD000000" typeface="robotoLight"><![CDATA[ 23 Eylül 2015]]></secondaryText><thirdText><![CDATA[]]></thirdText>
+</listItem><listItem>
+<viewType>3</viewType>
+<link><![CDATA[http://cuyazilim.com/applazm/fzkpost.php?link=http://www.fizikist.com/civa-metali-neden-oda-sicakliginda-sividir/]]></link><img><![CDATA[http://static.fizikist.com/img/2015/09/civa-s.jpeg]]></img><title size="18" color="#DD000000"><![CDATA[Civa Metali, Neden Oda Sıcaklığında Sıvıdır?]]></title><secondaryText color="#DD000000" typeface="robotoLight"><![CDATA[ 23 Eylül 2015]]></secondaryText><thirdText><![CDATA[]]></thirdText>
+</listItem><listItem>
+<viewType>3</viewType>
+<link><![CDATA[http://cuyazilim.com/applazm/fzkpost.php?link=http://www.fizikist.com/havai-fisekler-nasil-farkli-sekillerde-ve-renklerde-patlar/]]></link><img><![CDATA[http://static.fizikist.com/img/2015/09/havai-fisek2-s.jpg]]></img><title size="18" color="#DD000000"><![CDATA[Havai Fişekler Nasıl Farklı Şekillerde ve Renklerde Patlar?]]></title><secondaryText color="#DD000000" typeface="robotoLight"><![CDATA[ 23 Eylül 2015]]></secondaryText><thirdText><![CDATA[]]></thirdText>
+</listItem><listItem>
+<viewType>3</viewType>
+<link><![CDATA[http://cuyazilim.com/applazm/fzkpost.php?link=http://www.fizikist.com/nicin-daha-cok-okumalisiniz/]]></link><img><![CDATA[http://static.fizikist.com/img/2015/09/kitap-okumak-s.jpg]]></img><title size="18" color="#DD000000"><![CDATA[Niçin daha çok okumalısınız?]]></title><secondaryText color="#DD000000" typeface="robotoLight"><![CDATA[ 23 Eylül 2015]]></secondaryText><thirdText><![CDATA[]]></thirdText>
+</listItem><listItem>
+<viewType>3</viewType>
+<link><![CDATA[http://cuyazilim.com/applazm/fzkpost.php?link=http://www.fizikist.com/insan-gucuyle-hareket-eden-dunyanin-en-hizli-araci/]]></link><img><![CDATA[http://static.fizikist.com/img/2015/09/aerovelo-s.jpg]]></img><title size="18" color="#DD000000"><![CDATA[İnsan gücüyle hareket eden dünyanın en hızlı aracı ]]></title><secondaryText color="#DD000000" typeface="robotoLight"><![CDATA[ 23 Eylül 2015]]></secondaryText><thirdText><![CDATA[]]></thirdText>
+</listItem><listItem>
+<viewType>3</viewType>
+<link><![CDATA[http://cuyazilim.com/applazm/fzkpost.php?link=http://www.fizikist.com/gecko-kertenkelesi-ve-geckolari-taklit-eden-teknolojiler/]]></link><img><![CDATA[http://static.fizikist.com/img/2015/09/gecko-kertenkele4-s.jpg]]></img><title size="18" color="#DD000000"><![CDATA[Gecko Kertenkelesi ve Geckoları Taklit Eden Teknolojiler]]></title><secondaryText color="#DD000000" typeface="robotoLight"><![CDATA[ 22 Eylül 2015]]></secondaryText><thirdText><![CDATA[]]></thirdText>
+</listItem><listItem>
+<viewType>3</viewType>
+<link><![CDATA[http://cuyazilim.com/applazm/fzkpost.php?link=http://www.fizikist.com/bisikletcilere-ozel-sinyal-vermeyi-kolaylastiran-akilli-ceket/]]></link><img><![CDATA[http://static.fizikist.com/img/2015/09/bisiklet-ceket2-s.jpg]]></img><title size="18" color="#DD000000"><![CDATA[Bisikletçilere özel sinyal vermeyi kolaylaştıran akıllı ceket]]></title><thirdText color="#26A64F" ><![CDATA[Teknoloji]]></thirdText><secondaryText ><![CDATA[ 22 Eylül 2015]]></secondaryText></listItem><listItem>
+<viewType>3</viewType>
+<link><![CDATA[http://cuyazilim.com/applazm/fzkpost.php?link=http://www.fizikist.com/2-bin-500-metrede-gokyuzu-nobeti/]]></link><img><![CDATA[http://static.fizikist.com/img/2015/09/gokyuzu-gozlem-s.jpg]]></img><title size="18" color="#DD000000"><![CDATA[2 bin 500 metrede 'gökyüzü nöbeti']]></title><thirdText color="#26A64F" ><![CDATA[Haberler]]></thirdText><secondaryText ><![CDATA[ 22 Eylül 2015]]></secondaryText></listItem><listItem>
+<viewType>3</viewType>
+<link><![CDATA[http://cuyazilim.com/applazm/fzkpost.php?link=http://www.fizikist.com/gokbilimciler-uzak-bir-gezegenin-gercek-goruntusunu-kaydetti/]]></link><img><![CDATA[http://static.fizikist.com/img/2015/09/beta-pictoris-b-gezegen-s.png]]></img><title size="18" color="#DD000000"><![CDATA[Gökbilimciler uzak bir gezegenin gerçek görüntüsünü kaydetti]]></title><thirdText color="#26A64F" ><![CDATA[Uzay]]></thirdText><secondaryText ><![CDATA[ 22 Eylül 2015]]></secondaryText></listItem><listItem>
+<viewType>3</viewType>
+<link><![CDATA[http://cuyazilim.com/applazm/fzkpost.php?link=http://www.fizikist.com/haftanin-kitap-onerisi-astrolojinin-bilimle-imtihani/]]></link><img><![CDATA[http://static.fizikist.com/img/2015/09/astroloji-s.jpg]]></img><title size="18" color="#DD000000"><![CDATA[Haftanın Kitap Önerisi: Astrolojinin Bilimle İmtihanı]]></title><thirdText color="#26A64F" ><![CDATA[Kitap Önerileri]]></thirdText><secondaryText ><![CDATA[ 21 Eylül 2015]]></secondaryText></listItem><listItem>
+<viewType>3</viewType>
+<link><![CDATA[http://cuyazilim.com/applazm/fzkpost.php?link=http://www.fizikist.com/acik-hava-kirliligi-yilda-3-milyondan-fazla-insanin-olumune-neden-oluyor/]]></link><img><![CDATA[http://static.fizikist.com/img/2015/09/hava-kirliligi2-s.jpg]]></img><title size="18" color="#DD000000"><![CDATA[Açık Hava Kirliliği Yılda 3 milyondan Fazla İnsanın Ölümüne Neden Oluyor]]></title><thirdText color="#26A64F" ><![CDATA[Çevre]]></thirdText><secondaryText ><![CDATA[ 21 Eylül 2015]]></secondaryText></listItem></channel>
