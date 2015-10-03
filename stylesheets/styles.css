@@ -496,9 +496,10 @@ body .demo-blog {
   width: 44px;
   height: 44px;
   background-image: url('https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAaKAAAAJDgyYzFiZGUyLWQ1YjAtNDU1NS1iM2E0LTRkOTY1NzZmN2IwZg.jpg');
-  background-position: center;
+  background-position: center center;
   background-repeat: no-repeat;
-  background-size: 50%;
+  background-size: contain;
+  margin: auto;
   border-radius: 22px;
   background-color: #F5F5F5;
 }
